@@ -1,5 +1,9 @@
 This is a submission for AutomationAnywhere Hackathon
 
+-BotFile is the exported raw text bot program from AutomationAnywere.
+
+-Bot Instruction List Image is the image of all instructions in the bot as seen from the web editor
+
 -Folder Data includes customer excel that can be modified
 
 -Folder Emails includes sample email attachments that were downloaded
@@ -8,12 +12,15 @@ This is a submission for AutomationAnywhere Hackathon
 
 -Shipping label.png is a sample shipping label with order id that OCR recognizes
 
--BotFile is the exported raw text bot program from AutomationAnywere.
 
--Bot Instruction List Image is the image of all instructions in the bot as seen from the web editor
+
+
+
+
 
 
 To run:
+
 -Import the BotFile into AutomationAnywhere
 
 -Fix all hardcoded directory references in BotFile
